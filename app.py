@@ -4,7 +4,7 @@ import random
 
 app = Flask(__name__)
 
-API_KEY = "piroyashika"  # Required API key
+API_KEY = "yashika"  # Required API key
 
 # 100 Unique Decline Responses
 DECLINE_RESPONSES = [
